@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hello, I'm Azimul Huq 👋
 
-<!--
-**azimulhuqbd/azimulhuqbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Wordpress Development
 - 🌱 I’m currently learning Laravel, Vue & React
@@ -19,5 +15,5 @@ Here are some ideas to get you started:
 - Twitter Follow me on Twitter
 - LinkedIn Connect on LinkedIn
 
--->
+
 

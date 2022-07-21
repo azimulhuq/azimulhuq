@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Wordpress Development
-- 🌱 I’m currently learning Laravel, Vue & React
+- 🌱 I’m currently learning MERN stack and Headless WordPress
 - 👯 I’m looking to collaborate on Wordpress Development
 - 🤔 I’m looking for help with WordPress
 - 😄 Former Accounting Professional
